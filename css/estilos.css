@@ -1,7 +1,7 @@
 
 /*Colocamos una imagen de fondo al 'body' de nuestras páginas*/
 
-style {
+body {
  background-image: url("../figuras/fondomario1.jpeg");	
  background-color: #000;
 }
